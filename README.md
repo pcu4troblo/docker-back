@@ -12,9 +12,6 @@ Y esto último, también es útil, ya que los contenedores son menos pesados que
 lo cual es una buena ventaja.
 
 
-API_URL: http://localhost:4000/api
-DOCKER: https://hub.docker.com/r/juancardona11/api-node
-
 RUTAS:
 
 Obtener colección: http://localhost:4000/api/collection  //GET
